@@ -1,0 +1,24 @@
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.deps.json
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.AssemblyInfo.cs
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\refint\Twitter.Domain.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\ref\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.deps.json
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.AssemblyInfo.cs
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\refint\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\obj\Debug\net7.0\ref\Twitter.Domain.dll

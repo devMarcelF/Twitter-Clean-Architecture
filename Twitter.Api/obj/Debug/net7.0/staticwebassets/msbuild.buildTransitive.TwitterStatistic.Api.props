@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TwitterStatistic.Api.props" />
+</Project>

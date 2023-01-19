@@ -1,0 +1,34 @@
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.deps.json
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.AssemblyInfo.cs
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.CopyComplete
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\refint\Twitter.Persistence.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\ref\Twitter.Persistence.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.deps.json
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Persistence.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.AssemblyInfo.cs
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.csproj.CopyComplete
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\refint\Twitter.Persistence.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\Twitter.Persistence.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Persistence\obj\Debug\net7.0\ref\Twitter.Persistence.dll

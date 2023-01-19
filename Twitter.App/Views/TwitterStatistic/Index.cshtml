@@ -1,0 +1,17 @@
+﻿@model Twitter.App.ViewModels.TwitterStatisticDto
+@{
+    ViewData["Title"] = "Twitter Statistic";
+}
+
+<h1 style="background-color:lightgrey; text-align:center">Twitter Statistic</h1>
+
+<h3>Date: @Model.CreatedDate.ToShortDateString()</h3>
+<h3>Total number of tweets received: @Model.NumberOfTweets</h3>
+
+
+<h3>Top 10 Hashtags on Twitter right now.</h3>
+@foreach (var hashtag in Model.Top10HashTag)
+{
+    <p>#@hashtag</p>
+}
+

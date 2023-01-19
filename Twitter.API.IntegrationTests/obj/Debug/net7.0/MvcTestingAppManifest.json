@@ -1,0 +1,7 @@
+{
+  "Twitter.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.Api",
+  "Twitter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.Application",
+  "Twitter.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.Domain",
+  "Twitter.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.Infrastructure",
+  "Twitter.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.Persistence"
+}

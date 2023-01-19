@@ -1,0 +1,169 @@
+2023-01-19 13:30:40.999 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:30:41.018 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:30:41.019 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:30:41.020 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:30:41.021 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:30:41.886 -05:00 [INF] HTTP GET / responded 404 in 0.3695 ms
+2023-01-19 13:30:43.204 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 316.7550 ms
+2023-01-19 13:30:44.946 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 40.7173 ms
+2023-01-19 13:30:47.677 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 7.9214 ms
+2023-01-19 13:30:49.816 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.2982 ms
+2023-01-19 13:30:52.818 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 7.3456 ms
+2023-01-19 13:31:39.820 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:31:39.835 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:31:39.836 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:31:39.837 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:31:39.837 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:31:41.408 -05:00 [INF] HTTP GET / responded 404 in 0.4369 ms
+2023-01-19 13:31:44.050 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 308.9753 ms
+2023-01-19 13:31:45.770 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 44.5429 ms
+2023-01-19 13:31:47.503 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 128.5364 ms
+2023-01-19 13:31:48.650 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 6.4880 ms
+2023-01-19 13:31:49.515 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 4.1991 ms
+2023-01-19 13:31:50.365 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.6876 ms
+2023-01-19 13:31:50.683 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.3428 ms
+2023-01-19 13:31:50.950 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.6739 ms
+2023-01-19 13:31:52.678 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.5194 ms
+2023-01-19 13:31:54.771 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.2027 ms
+2023-01-19 13:31:55.389 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.1910 ms
+2023-01-19 13:31:56.734 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.1616 ms
+2023-01-19 13:31:59.074 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 6.3029 ms
+2023-01-19 13:32:00.776 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.5448 ms
+2023-01-19 13:32:03.659 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.2164 ms
+2023-01-19 13:32:04.658 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.5382 ms
+2023-01-19 13:32:05.738 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 2.9207 ms
+2023-01-19 13:32:07.710 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.8767 ms
+2023-01-19 13:32:10.644 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.4412 ms
+2023-01-19 13:32:12.692 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 2.9503 ms
+2023-01-19 13:32:14.798 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.2609 ms
+2023-01-19 13:38:01.887 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:38:01.904 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:38:01.906 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:38:01.906 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:38:01.907 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:38:02.651 -05:00 [INF] HTTP GET / responded 404 in 0.4010 ms
+2023-01-19 13:39:19.178 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:39:19.193 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:39:19.195 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:39:19.196 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:39:19.196 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:39:19.744 -05:00 [INF] HTTP GET / responded 404 in 0.3569 ms
+2023-01-19 13:40:10.265 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:40:10.282 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:40:10.284 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:40:10.285 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:40:10.286 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:40:10.878 -05:00 [INF] HTTP GET / responded 404 in 0.3468 ms
+2023-01-19 13:42:44.239 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:42:44.257 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:42:44.259 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:42:44.260 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:42:44.262 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:42:44.585 -05:00 [INF] HTTP GET / responded 404 in 0.4440 ms
+2023-01-19 13:42:47.115 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 275.8823 ms
+2023-01-19 13:45:27.244 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 13:45:27.259 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 13:45:27.260 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 13:45:27.261 -05:00 [INF] Hosting environment: Development
+2023-01-19 13:45:27.262 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 13:45:27.903 -05:00 [INF] HTTP GET / responded 404 in 0.3663 ms
+2023-01-19 13:45:30.502 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 290.0262 ms
+2023-01-19 13:45:42.741 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 206.4818 ms
+2023-01-19 13:45:42.764 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 8.6053 ms
+2023-01-19 13:45:42.780 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 5.8296 ms
+2023-01-19 13:45:42.795 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.6483 ms
+2023-01-19 13:45:42.811 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.8145 ms
+2023-01-19 13:45:44.876 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.4226 ms
+2023-01-19 13:45:46.841 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 4.2804 ms
+2023-01-19 13:45:46.874 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 5.4644 ms
+2023-01-19 13:45:49.684 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.6212 ms
+2023-01-19 13:45:49.837 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.7510 ms
+2023-01-19 13:45:51.639 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.3727 ms
+2023-01-19 13:45:51.730 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.0079 ms
+2023-01-19 13:45:53.151 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.2557 ms
+2023-01-19 13:45:54.206 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.2647 ms
+2023-01-19 13:45:54.626 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.8076 ms
+2023-01-19 13:45:54.931 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.1573 ms
+2023-01-19 13:45:55.790 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.0975 ms
+2023-01-19 13:45:56.410 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.2394 ms
+2023-01-19 13:45:56.689 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.7054 ms
+2023-01-19 13:45:56.994 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 3.1025 ms
+2023-01-19 13:45:57.672 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 2.9390 ms
+2023-01-19 15:27:14.780 -05:00 [FTL] Application startup exception
+System.InvalidOperationException: Scheme already exists: Bearer
+   at Microsoft.AspNetCore.Authentication.AuthenticationOptions.AddScheme(String name, Action`1 configureBuilder)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Authentication.AuthenticationSchemeProvider..ctor(IOptions`1 options, IDictionary`2 schemes)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.ConstructorInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-01-19 15:28:23.497 -05:00 [FTL] Application startup exception
+System.InvalidOperationException: Scheme already exists: Bearer
+   at Microsoft.AspNetCore.Authentication.AuthenticationOptions.AddScheme(String name, Action`1 configureBuilder)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Authentication.AuthenticationSchemeProvider..ctor(IOptions`1 options, IDictionary`2 schemes)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.ConstructorInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-01-19 15:29:03.892 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 15:29:03.909 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 15:29:03.911 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 15:29:03.911 -05:00 [INF] Hosting environment: Development
+2023-01-19 15:29:03.912 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 15:31:27.535 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 15:31:27.553 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 15:31:27.555 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 15:31:27.556 -05:00 [INF] Hosting environment: Development
+2023-01-19 15:31:27.557 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 15:31:27.971 -05:00 [INF] HTTP GET / responded 404 in 0.3669 ms
+2023-01-19 15:31:31.196 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 327.9216 ms
+2023-01-19 15:31:33.612 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 48.1086 ms
+2023-01-19 15:31:35.158 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 142.5671 ms
+2023-01-19 15:31:35.569 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 7.6810 ms
+2023-01-19 15:31:37.426 -05:00 [INF] HTTP GET /api/TwitterStatistic/recent responded 200 in 4.5111 ms
+2023-01-19 15:31:38.591 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 4.0560 ms
+2023-01-19 15:31:40.826 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 2.9220 ms
+2023-01-19 15:31:43.588 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.5628 ms
+2023-01-19 15:31:45.638 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.2000 ms
+2023-01-19 15:31:48.584 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.5021 ms
+2023-01-19 15:31:50.831 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 2.8523 ms
+2023-01-19 15:31:53.648 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.7321 ms
+2023-01-19 15:31:56.579 -05:00 [INF] HTTP POST /api/TwitterStatistic responded 200 in 3.9756 ms
+2023-01-19 15:32:40.791 -05:00 [INF] Now listening on: https://localhost:7271
+2023-01-19 15:32:40.807 -05:00 [INF] Now listening on: http://localhost:5069
+2023-01-19 15:32:40.809 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-19 15:32:40.810 -05:00 [INF] Hosting environment: Development
+2023-01-19 15:32:40.811 -05:00 [INF] Content root path: C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Api
+2023-01-19 15:32:41.508 -05:00 [INF] HTTP GET / responded 404 in 0.4766 ms
+2023-01-19 15:32:50.475 -05:00 [INF] HTTP GET /favicon.ico responded 404 in 0.0058 ms
+2023-01-19 15:33:37.216 -05:00 [INF] HTTP GET /api/TwitterStatistic/export responded 200 in 38704.3932 ms

@@ -1,0 +1,30 @@
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.deps.json
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.AssemblyInfo.cs
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.CopyComplete
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\refint\Twitter.Application.dll
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\Desktop\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\ref\Twitter.Application.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.deps.json
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Domain.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\bin\Debug\net7.0\Twitter.Domain.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.AssemblyInfo.cs
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.csproj.CopyComplete
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\refint\Twitter.Application.dll
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\Twitter.Application.pdb
+C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Application\obj\Debug\net7.0\ref\Twitter.Application.dll
