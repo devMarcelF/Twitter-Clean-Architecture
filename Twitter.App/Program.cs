@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Net.Http.Headers;
 using System.Net.Http.Headers;
 using Twitter.App.Data;
+using Twitter.App.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,13 +23,12 @@ builder.Services.AddAuthentication().AddTwitter(twitterOptions => {
     twitterOptions.ConsumerSecret = builder.Configuration["Authentication:Twitter:ConsumerSecret"];
 });
 
-builder.Services.AddHttpClient("APIRoot", client =>
+builder.Services.AddHttpClient<ITwitterStatisticDataService, TwitterStatisticDataService>("APIRoot", client =>
 {
     client.BaseAddress = new Uri(builder.Configuration["APIRoot"]);
     client.DefaultRequestHeaders.Clear();
     client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", builder.Configuration["Authentication:Twitter:BearerToken"]);
     client.DefaultRequestHeaders.Add(HeaderNames.Accept, "application/json");
-    client.DefaultRequestHeaders.Add("Audience", builder.Configuration["Authentication:Twitter:ConsumerSecret"]);
 });
 
 builder.Services.AddControllersWithViews();

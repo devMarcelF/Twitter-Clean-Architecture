@@ -18,7 +18,7 @@ namespace Twitter.API.IntegrationTests.Controllers
         {
             var client = _factory.GetAnonymousClient();
 
-            var response = await client.GetAsync("/api/twitterStatistic/all");
+            var response = await client.GetAsync("/api/twitterStatistic/GetMostRecentTwitterStatistic");
 
             response.EnsureSuccessStatusCode();
 

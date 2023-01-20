@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Twitter.Domain
-build_property.ProjectDir = C:\Users\marce\source\repos\C#\.Net 6\WebAPI\CLEAN ARCHITECTURE\Twitter\Twitter.Domain\
+build_property.ProjectDir = C:\Users\marce\source\repos\C#\.Net 6\WebAPI\Clean Architecture\Twitter\Twitter.Domain\

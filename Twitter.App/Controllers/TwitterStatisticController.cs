@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Net.Http;
 using System.Text.Json;
 using System.Text.RegularExpressions;
+using Twitter.App.Services;
 using Twitter.App.ViewModels;
 
 namespace Twitter.App.Controllers
@@ -13,21 +14,16 @@ namespace Twitter.App.Controllers
     public class TwitterStatisticController : Controller
     {
 
-        private readonly IHttpClientFactory _httpClientFactory;
+        private readonly ITwitterStatisticDataService _twitterStatisticDataService;
 
-        public TwitterStatisticController(IHttpClientFactory httpClientFactory)
+        public TwitterStatisticController(ITwitterStatisticDataService twitterStatisticDataService)
         {
-            _httpClientFactory = httpClientFactory ??
-                                 throw new ArgumentNullException(nameof(httpClientFactory));
+            _twitterStatisticDataService = twitterStatisticDataService;
         }
 
         public async Task<IActionResult> Index()
         {
-            var httpClient = _httpClientFactory.CreateClient("APIRoot");
-
-            var twitterStatistics = await JsonSerializer.DeserializeAsync<TwitterStatisticDto>(
-            await httpClient.GetStreamAsync($"api/TwitterStatistic/recent"),
-            new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
+            var twitterStatistics = await _twitterStatisticDataService.GetMostRecentTwitterStatistic();
 
             twitterStatistics.Top10HashTag = 
                 twitterStatistics.HashTag.Split('#', StringSplitOptions.RemoveEmptyEntries).ToList();

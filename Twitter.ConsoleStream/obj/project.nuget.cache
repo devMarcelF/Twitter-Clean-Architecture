@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4cAknF/gY3q925yTqcDO9fxFkO1GsnIW89Nx4AJj2w3ZVVpQJ+tFfBWUUBaefowXU/15znipqwZV6aGPj54xxw==",
+  "dgSpecHash": "2alKr/Nyu82RoE/OSrIBcTiDK0ThWp1wmLiV+qIGpFup7Uw4A/Lad5iQ61BtUdHclV6pbt3O0iWHHoqCqB8jrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\marce\\source\\repos\\C#\\.Net 6\\WebAPI\\CLEAN ARCHITECTURE\\Twitter\\Twitter.ConsoleStream\\Twitter.ConsoleStream.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.0\\microsoft.extensions.hosting.7.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
-    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.1\\microsoft.extensions.http.polly.7.0.1.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.2\\microsoft.extensions.http.polly.7.0.2.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",

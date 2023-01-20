@@ -15,7 +15,7 @@ namespace Twitter.Persistence.Configurations
                 .IsRequired()
                 .HasMaxLength(200);
 
-            //builder.Property(e => e.Date)
+            //builder.Property(e => e.CreatedDate)
             //    .IsRequired();
         }
     }

@@ -342,7 +342,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Http.Polly/7.0.1": {
+      "Microsoft.Extensions.Http.Polly/7.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Http": "7.0.0",
@@ -1133,10 +1133,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Http.Polly/7.0.1": {
-      "sha512": "tndQwRhxchAYw2UqFVO9jZDNb+pBmdiwz4Eoncvo1mqRhEqxLTziPXv0csSxl4DmEC5JHEUM8PG9G1A2X4z80A==",
+    "Microsoft.Extensions.Http.Polly/7.0.2": {
+      "sha512": "OuHHAw1jg6cQj8AgONJMZHNlaZ5S6iaf5A921qJfgsstWWEQF4BP+xTvWnNcLIaNcYeHU0B9z3edJ+wyHuMKTw==",
       "type": "package",
-      "path": "microsoft.extensions.http.polly/7.0.1",
+      "path": "microsoft.extensions.http.polly/7.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1144,7 +1144,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.xml",
-        "microsoft.extensions.http.polly.7.0.1.nupkg.sha512",
+        "microsoft.extensions.http.polly.7.0.2.nupkg.sha512",
         "microsoft.extensions.http.polly.nuspec"
       ]
     },
@@ -1676,7 +1676,7 @@
       "Microsoft.Extensions.Configuration.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Configuration.Json >= 7.0.0",
       "Microsoft.Extensions.Hosting >= 7.0.0",
-      "Microsoft.Extensions.Http.Polly >= 7.0.1",
+      "Microsoft.Extensions.Http.Polly >= 7.0.2",
       "Newtonsoft.Json >= 13.0.2"
     ]
   },
@@ -1745,7 +1745,7 @@
           },
           "Microsoft.Extensions.Http.Polly": {
             "target": "Package",
-            "version": "[7.0.1, )"
+            "version": "[7.0.2, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
